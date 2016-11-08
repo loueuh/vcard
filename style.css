@@ -5,19 +5,8 @@ body {
 	line-height: 1.2;
 	margin: 0 auto;	
 	background: url(img/formes.png) no-repeat center top #EAE9E9;
-
-}
-.title {
-	font-size: 30px;
-	line-height: 1.2;
-	font-family: 'quicksand', sans-serif;
-	color: #2D2825;
-	font-weight: normal;
-}
-.container{
-	width: 1200px;
-	margin: 0 auto;
-
+	margin-top: 50px;
+	margin-bottom: 350px;
 }
 .container--text {
 	width: 400px;
@@ -33,10 +22,9 @@ body {
   text-align: left; 
 }
 .social{
-	display: inline-block;
-	margin-left: 5px;
-	margin-top: 10px;
-
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
 }
 .nav__el{
 	font-weight: 900;
